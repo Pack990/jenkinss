@@ -1,2 +1,0 @@
-<div id="sub_img"></div>
-<div class="clear"></div>
