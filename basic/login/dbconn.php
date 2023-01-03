@@ -1,5 +1,5 @@
 <?php
-$mysql_hostname = 'dbaddress';
+$mysql_hostname = 'dbinstance.cir4kemuv2y1.ap-northeast-2.rds.amazonaws.com';
 $mysql_username = 'careadmin';
 $mysql_password = 'hackers';
 $mysql_database = 'care_db';
